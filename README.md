@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roy1126
-- 👀 I’m interested in Software Development especially in Mobile Development.
+- 👀 I’m interested in Software Development especially in Web Development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me in royabanilla@gmail.com
